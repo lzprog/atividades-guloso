@@ -18,4 +18,4 @@ A abordagem utilizada ordena as atividades pelo horário de **término crescente
 
 - `atividades.py`: arquivo principal que contém a implementação do algoritmo guloso.
 - `atividades_100.py`: arquivo com 100 atividades para testes em larga escala.
-- `atividades_1000.py: arquivo com 1000 atividades para testes de desempenho.
+- `atividades_1000.py`: arquivo com 1000 atividades para testes de desempenho.
